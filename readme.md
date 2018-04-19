@@ -85,5 +85,5 @@ github.io是完全基于github创建的，其本质上是在你的github账户�
 
 	推测： CSS 被 并没有全局引用到
 
-**解决方法：** 修改打包后的html 采用外链的方式 引用index.js 在index.js里又回去引用字体包文件
+**解决方法：** 修改打包后的html 采用外链的方式 引用index.js 在index.js里又会去引用字体包文件
 
