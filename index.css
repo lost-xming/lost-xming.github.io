@@ -25,6 +25,8 @@ menu,
 nav,
 section,
 summary {
+    margin: 0;
+    padding: 0;
     display: block;
 }
 
@@ -1517,7 +1519,7 @@ pre .javascript .function {
 
 @media (min-width: 992px) {
     .posts-expand .post-body {
-        text-align: justify;
+        text-align: center;
     }
 }
 
