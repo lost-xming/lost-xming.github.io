@@ -1,6 +1,6 @@
 ## github个人博客网站
 
-[在线预览](在线预览 "https://lost-xming.github.io")  **旨在整理知识点和记录工作遇到的问题处理方法**
+在线预览 ： https://lost-xming.github.io   **旨在整理知识点和记录工作遇到的问题处理方法**
 
 ### 开通自己的github.io 博客步骤
 
